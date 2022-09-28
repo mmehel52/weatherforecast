@@ -17,7 +17,7 @@ If new searched city is in the weather data list, app can display a warning text
  [👍click here to see page](https://mmehel52.github.io/weatherforecast/)
  
 ## Demo
-<img src="https://github.com/mmehel52/weatherforecast/blob/main/11.png" width="900"/>
+<img src="https://github.com/mmehel52/weatherforecast/blob/main/Animation.gif" width="900"/>
 
 
       
